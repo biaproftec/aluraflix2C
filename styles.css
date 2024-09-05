@@ -1,6 +1,9 @@
 body{
     color: white;
     background: black;
+    font-family: "Chakra Petch", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 header {
     border-bottom: solid 2px rgb(228, 42, 110);
